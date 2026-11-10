@@ -1,0 +1,8 @@
+.next/
+*.log
+.env
+.DS_Store
+coverage/
+yarn-error.log*
+.pnpm-store/
+.env.local
